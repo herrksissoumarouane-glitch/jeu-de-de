@@ -4,3 +4,4 @@ jouer le numéro de la face de Dé qui est généré aléatoirement, valeur comp
 1 et 6, puis affiche aussi le nombre d’essais. 
 par reactJS
  
+ 
